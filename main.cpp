@@ -58,85 +58,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     enemy
+//  action 1: the enemy attacks
+enemy.attack();
+//  action 2: the enemy hides
+enemy.hide();
+//  action 3: the enemy speaks
+enemy.speak();
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     human
+//  action 1: the human cooks
+human.cook();
+//  action 2: the human eats
+human.eat();
+//  action 3: the human swims
+human.swim();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     bird
+//  action 1: the bird flies
+bird.fly();
+//  action 2: the bird jumps
+bird.jump();
+//  action 3: the bird sings
+bird.sing();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby drinks milk
+baby.drinksMilk();
+//  action 3: the baby crawls
+baby.crawl();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog runs
+dog.run();
+//  action 3: the dog plays catch
+dog.playCatch();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     company
+//  action 1: the company makes profit
+company.makeProfit();
+//  action 2: the company bankrupts
+company.bankrupt();
+//  action 3: the company hires an employee
+company.hireEmployee();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     family
+//  action 1: the family buys a house
+family.buyHouse();
+//  action 2: the family pays the bills
+family.payBills();
+//  action 3: the family grows
+family.grow();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     robot
+//  action 1: the robot learns
+robot.learn();
+//  action 2: the robot process information
+robot.processInformation();
+//  action 3: the robot dances
+robot.dance();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     virus
+//  action 1: the virus infects
+virus.infect();
+//  action 2: the virus kills
+virus.kill();
+//  action 3: the virus mutates
+virus.mutate();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     phone
+//  action 1: the phone vibrates
+phone.vibrate();
+//  action 2: the phone plays music
+phone.playMusic();
+//  action 3: the phone connects to internet
+phone.connectToInternet();
 
 
 #endif
